@@ -2,4 +2,4 @@
 
 >Paul Louis Martin des Amoignes (1858–1925), In the Classroom (1886), oil on canvas, 68.5 × 110.5 cm, location not known. Wikimedia Commons.
 
-🌱 Learning Nix, Rust, React
+🌱 Learning Nix, Rust, Svelte
